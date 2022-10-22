@@ -37,6 +37,10 @@ h1 {
   text-align: center;
 }
 
+.title {
+  max-width: 720px;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     --color: #213547;
