@@ -2,6 +2,7 @@
   "name": "fullcycle-git-github",
   "private": true,
   "version": "0.0.0",
+  "description": "",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,6 +11,22 @@
     "prepare": "husky install",
     "commit": "cz"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquebortoletto/flow-patterns-git-github.git"
+  },
+  "keywords": [
+    "gitflow",
+    "gpg",
+    "husky",
+    "conventional-commits"
+  ],
+  "author": "Henrique Bortoletto <bortolettohenrique@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henriquebortoletto/flow-patterns-git-github/issues"
+  },
+  "homepage": "https://github.com/henriquebortoletto/flow-patterns-git-github#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
