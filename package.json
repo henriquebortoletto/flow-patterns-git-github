@@ -2,7 +2,7 @@
   "name": "fullcycle-git-github",
   "private": true,
   "version": "0.0.0",
-  "description": "",
+  "description": "Project created for the purpose of studying Git and Github patterns and techniques from the FullCycle course.",
   "type": "module",
   "scripts": {
     "dev": "vite",
