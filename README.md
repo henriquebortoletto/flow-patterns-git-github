@@ -19,10 +19,10 @@ Repositório de estudo sobre técnicas e padrões sobre `git` e `github` com bas
 
 - [x] Gitflow
 - [x] Assinatura de commits (GPG)
-- [ ] PR`s e Code Review
-- [ ] SemVer
-- [ ] Husky
-- [ ] Conventional Commits
+- [x] PR`s e Code Review
+- [x] SemVer
+- [x] Husky
+- [x] Conventional Commits
 
 ---
 
